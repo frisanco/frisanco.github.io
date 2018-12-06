@@ -1,7 +1,9 @@
   header {
     text-align: center;
-    background: url("https://tech.msu.edu/wp-content/uploads/2015/06/banner-support-campus-aerial.jpg");
+    background: url("https://scontent.fdet2-1.fna.fbcdn.net/v/t1.0-9/18664648_1471278099599765_1825964697501527529_n.jpg?_nc_cat=103&_nc_ht=scontent.fdet2-1.fna&oh=69153ef02cf8671159f69cb4679ac2d4&oe=5C6C9845");
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color: black;
     border-bottom: 7px solid black;
   }
