@@ -82,11 +82,11 @@
     /*border: 2px solid black; /* Remove borders */
     /*outline: none; /* Remove outline */
     background-color: #32594f; /* Set a background color */
-    /*color: black; /* Text color */
-    /*cursor: pointer; /* Add a mouse pointer on hover */
-    /*padding: 15px; /* Some padding */
-    /*border-radius: 10px; /* Rounded corners */
-    /*font-size: 18px; /* Increase font size */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
   }
   #myBtn {
       display: none; /* Hidden by default */
