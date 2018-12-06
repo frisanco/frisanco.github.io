@@ -42,7 +42,6 @@
     padding: 20px;
     margin: 0 auto;
     border-bottom: 4px solid black;
-    border-radius: 20px;
     color: white;
   }
   .Education {
@@ -50,7 +49,6 @@
     padding: 20px;
     margin: 0 auto;
     border-bottom: 4px solid black;
-    border-radius: 20px;
     color: white;
   }
   .Work {
@@ -58,7 +56,6 @@
     padding: 20px;
     margin: 0 auto;
     border-bottom: 4px solid black;
-    border-radius: 20px;
     color: white;
   }
   .Certifications {
@@ -66,15 +63,12 @@
     padding: 20px;
     margin: 0 auto;
     border-bottom: 4px solid black;
-    border-radius: 20px;
     color: white;
   }
   .Projects {
     max-width: 700px;
     padding: 20px;
     margin: 0 auto;
-    border-bottom: 4px solid black;
-    border-radius: 20px;
     color: white;
   }
   .Buttons {
@@ -83,7 +77,7 @@
     z-index: 99; /* Make sure it does not overlap */
     /*border: 2px solid black; /* Remove borders */
     outline: none; /* Remove outline */
-    padding: 20px;
+    /*padding: 20px;*/
   }
   #myBtn {
       display: none; /* Hidden by default */
