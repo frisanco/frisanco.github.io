@@ -81,12 +81,7 @@
     z-index: 99; /* Make sure it does not overlap */
     /*border: 2px solid black; /* Remove borders */
     /*outline: none; /* Remove outline */
-    background-color: #32594f; /* Set a background color */
-    color: black; /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 10px; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
+    padding: 20px;
   }
   #myBtn {
       display: none; /* Hidden by default */
@@ -103,6 +98,66 @@
       border-radius: 10px; /* Rounded corners */
       font-size: 18px; /* Increase font size */
   }
+  #about {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
+  #education {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
+  #workexp {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
+  #crt {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
+  #project {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
   #myBtn:hover {
+      background-color: #555; /* Add a dark-grey background on hover */
+  }
+  #about:hover {
+      background-color: #555; /* Add a dark-grey background on hover */
+  }
+  #education:hover {
+      background-color: #555; /* Add a dark-grey background on hover */
+  }
+  #workexp:hover {
+      background-color: #555; /* Add a dark-grey background on hover */
+  }
+  #crt:hover {
+      background-color: #555; /* Add a dark-grey background on hover */
+  }
+  #project:hover {
       background-color: #555; /* Add a dark-grey background on hover */
   }
