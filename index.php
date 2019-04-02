@@ -46,8 +46,9 @@
     <h2 id="edu"> Education </h2>
     <dl>
       <dt> Michigan State University (2015-2019) </dt>
-       <dd> &nbsp;&nbsp;&nbsp;&nbsp;B.S., Computer Science </dd>
-        <dd> &nbsp;&nbsp;&nbsp;&nbsp;Minor in Information Technology</dd>
+        <dd>&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science</dd>
+        <dd><i>&nbsp;&nbsp;&nbsp;&nbsp;Major in Computer Science </i></dd>
+        <dd><i>&nbsp;&nbsp;&nbsp;&nbsp;Minor in Information Technology</i></dd>
     </dl>
   </div>
 
