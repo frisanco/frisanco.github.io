@@ -51,35 +51,35 @@
   }
   .Education {
     max-width: 700px;
-    padding: 10px;
+    padding-top: 10px;
     margin: 0 auto;
     border-bottom: 4px solid black;
     color: white;
   }
   .Work {
     max-width: 700px;
-    padding: 10px;
+    padding-top: 10px;
     margin: 0 auto;
     border-bottom: 4px solid black;
     color: white;
   }
   .Certifications {
     max-width: 700px;
-    padding: 10px;
+    padding-top: 10px;
     margin: 0 auto;
     border-bottom: 4px solid black;
     color: white;
   }
   .Extracurriculars {
     max-width: 700px;
-    padding: 10px;
+    padding-top: 10px;
     margin: 0 auto;
     border-bottom: 4px solid black;
     color: white;
   }
   .Projects {
     max-width: 700px;
-    padding: 10px;
+    padding-top: 10px;
     margin: 0 auto;
     color: white;
   }
