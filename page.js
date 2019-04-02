@@ -16,9 +16,22 @@ function topFunction() {
 }
 
 // When user clicks button, scroll to About Me section
-function aboutFunction() {
-  var elmnt = document.getElementById("about me");
-  elmnt.scrollIntoView();
+function clickFunction(id) {
+    console.log(id);
+    var elmnt = document.getElementById(id);
+    console.log(elmnt);
+    elmnt.scrollIntoView();
+}
+
+function goToMaps() {
+    window.open("https://goo.gl/maps/fejXGTJzti52");
+}
+/*
+// When user clicks button, scroll to About Me section
+function aboutFunction(event) {
+    event.preventDefault();
+    var elmnt = document.getElementById("about me");
+    elmnt.scrollIntoView();
 }
 
 // When user clicks button, scroll to Education section
@@ -43,4 +56,4 @@ function certFunction() {
 function projectsFunction() {
   var elmnt = document.getElementById("proj");
   elmnt.scrollIntoView();
-}
+}*/

@@ -13,26 +13,30 @@
   <body>
 
   <header>
-    <img class="Portrait" src="images/29881A0347e.jpg" alt="Self Portrait" height="200" width="200">
+    <img class="Portrait" src="images/29881A0347e.jpg" alt="Self Portrait" height="200">
     <h1> Ben Frisanco </h1>
-    <h2 id="location"> Okemos, MI | (906) 284-0875 | frisanco@msu.edu </h2>
+    <h2 id="location"><a href="https://goo.gl/maps/fejXGTJzti52" target="_blank">Okemos, MI</a> |
+      <a href="tel:+19062840875" target="_blank">(906) 284-0875</a> |
+      <a href="mailto:frisanco@msu.edu?Subject=Personal%20Site%20Contact" target="_top">frisanco@msu.edu</a>
+    </h2>
   </header>
 
 <br>
 
   <div class="Buttons">
-    <button id="about" onclick="aboutFunction()" title="About Me!"> About </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <button id="education" onclick="educationFunction()" title="Education"> Education </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <button id="workexp" onclick="workFunction()" title="Work Experiences"> Work </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <button id="crt" onclick="certFunction()" title="Certifications"> Certifications </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <button id="project" onclick="projectsFunction()" title="Projects"> Projects </button>
+    <button id="about" onclick="clickFunction('about me')" title="About Me!"> About </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button id="education" onclick="clickFunction('edu')" title="Education"> Education </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button id="workexp" onclick="clickFunction('work')" title="Work Experiences"> Work </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button id="crt" onclick="clickFunction('certs')" title="Certifications"> Certifications </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button id="project" onclick="clickFunction('proj')" title="Projects"> Projects </button>
   </div>
 
   <div class="About">
     <h2 id="about me"> About Me </h2>
     <p> My name is Benjamin Frisanco, and I am a senior at Michigan State University. I am currently studying Computer Science
-    with a minor in Information Technology. I grew up in Crystal Falls, a small town in Michigan's Upper Peninsula. I have always
-    been fascinated with computers and computer networks, and I plan to one day work as a Network and Security Adminsitrator for
+    with a minor in Information Technology. I grew up in Crystal Falls, a small town in Michigan's Upper Peninsula, and
+      am now residing in Okemos, MI. </p>
+    <p>I have always been fascinated with computers and computer networks, and I plan to one day work as a Network and Security Adminsitrator for
     an IT firm or equivalent.</p>
   </div>
 
@@ -88,6 +92,17 @@
   </div>
 
 <br>
+
+  <div class="Extracurriculars">
+    <h2 id="extra"> Extracurriculars </h2>
+    <dl>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Deloitte Cyber Threat Competition, Westlake, TX: Participant </dd>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;MSU Campus Lions Club: Member </dd>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Project Management Institute (PMI): Member </dd>
+    </dl>
+  </div>
+
+  <br>
 
   <div class="Projects">
     <h2 id="proj"> Projects </h2>
