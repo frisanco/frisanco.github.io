@@ -1,0 +1,8 @@
+{
+    "autoload": {
+      "psr-4": {"Site\\": "lib/Site"}
+    },
+    "require": {
+      "phpunit/phpunit": "6"
+    }
+  }
