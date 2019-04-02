@@ -135,7 +135,7 @@
     </a>
   </div>
 
-  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <button onclick="topFunction()" id="myBtn" title="top">Top</button>
 
   <!-- JavaScript in page.js -->
   <script src="page.js"></script>
