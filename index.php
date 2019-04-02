@@ -5,11 +5,11 @@ $view = new Site\View();
 <!DOCTYPE html>
 <html>
   <head>
-    <?php $view->head(); ?>
+    <?php echo $view->head(); ?>
   </head>
   <body>
 
-    <?php $view->header(); ?>
+    <?php echo $view->header(); ?>
 
 <br>
 
@@ -92,7 +92,7 @@ $view = new Site\View();
 
 <br>
 
-  <?php $view->footer(); ?>
+  <?php echo $view->footer(); ?>
 
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
