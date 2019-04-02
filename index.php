@@ -1,5 +1,4 @@
 <?php
-$open = true;
 $view = new Site\View();
 ?>
 
