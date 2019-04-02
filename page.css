@@ -18,7 +18,8 @@
   h1 {
     font-family: 'Lobster', cursive;
     font-size: 70px;
-    text-shadow: -1px 0 white, 0 2px white, 2px 0 white, 0 -1px white;
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+    color: white;
   }
   h2 {
     font-family: 'Orbitron', sans-serif;
