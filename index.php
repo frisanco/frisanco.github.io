@@ -97,9 +97,9 @@
   <div class="Extracurriculars">
     <h2 id="extra"> Extracurriculars </h2>
     <dl>
-      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Deloitte Cyber Threat Competition, Westlake, TX: Participant </dd>
-      <dd> &nbsp;&nbsp;&nbsp;&nbsp;MSU Campus Lions Club: Member </dd>
-      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Project Management Institute (PMI): Member </dd>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Participant in Deloitte Cyber Threat Competition, Westlake, TX </dd>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Member of MSU Campus Lions Club </dd>
+      <dd> &nbsp;&nbsp;&nbsp;&nbsp;Student Member of Project Management Institute (PMI) </dd>
     </dl>
   </div>
 
