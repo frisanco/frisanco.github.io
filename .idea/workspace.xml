@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92603a26-a2eb-49c0-923f-22813c474c15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="137" column="55" selection-start-line="137" selection-start-column="55" selection-end-line="137" selection-end-column="55" />
+            <state relative-caret-position="405">
+              <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -86,8 +86,8 @@
         <option value="$PROJECT_DIR$/lib/localize.inc.php" />
         <option value="$PROJECT_DIR$/lib/Site/Site.php" />
         <option value="$PROJECT_DIR$/lib/site.inc.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/page.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -202,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554175128110</updated>
       <workItem from="1554175129216" duration="4909000" />
-      <workItem from="1554230371082" duration="904000" />
+      <workItem from="1554230371082" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="PhpStorm commit">
       <created>1554175441592</created>
@@ -316,11 +316,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554231136280</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adjust padding">
+      <created>1554231282803</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554231282803</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Edit image; update edu content">
+      <created>1554232211361</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554232211361</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5813000" />
+    <option name="totallyTimeSpent" value="6717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
@@ -362,7 +376,8 @@
     <MESSAGE value="Return to HTML" />
     <MESSAGE value="Return to PHP" />
     <MESSAGE value="Adjust padding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust padding" />
+    <MESSAGE value="Edit image; update edu content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit image; update edu content" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/Site/View.php">
@@ -421,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="137" column="55" selection-start-line="137" selection-start-column="55" selection-end-line="137" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/site.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -439,6 +447,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
         </state>
       </provider>
     </entry>
