@@ -28,6 +28,7 @@
     <button id="education" onclick="clickFunction('edu')" title="Education"> Education </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <button id="workexp" onclick="clickFunction('work')" title="Work Experiences"> Work </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <button id="crt" onclick="clickFunction('certs')" title="Certifications"> Certifications </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button id="extracur" onclick="clickFunction('extra')" title="Extracurriculars"> Extracurriculars </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <button id="project" onclick="clickFunction('proj')" title="Projects"> Projects </button>
   </div>
 
