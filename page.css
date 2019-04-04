@@ -7,6 +7,16 @@
     color: black;
     border-bottom: 7px solid black;
   }
+  header::after {
+    content: "";
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+  }
   .Portrait {
     margin: 40px 0px 0px 0px;
     border: 7px solid white;
