@@ -165,6 +165,15 @@
     font-size: 18px; /* Increase font size */
     font-weight: bold;
   }
+  #extracur {
+    background-color: #856E5F; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold;
+  }
   #project {
     background-color: #856E5F; /* Set a background color */
     color: black; /* Text color */
