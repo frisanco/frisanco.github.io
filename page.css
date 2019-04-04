@@ -198,6 +198,9 @@
   #crt:hover {
       background-color: #555; /* Add a dark-grey background on hover */
   }
+  #extracur:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
   #project:hover {
       background-color: #555; /* Add a dark-grey background on hover */
   }
